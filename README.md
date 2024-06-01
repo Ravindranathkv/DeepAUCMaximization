@@ -8,6 +8,8 @@ Our experiments will provide valuable insights into the potential of DAM for med
 
 In conclusion, this project aims to improve the generalization ability of DAM for medical image classification tasks and provides valuable insights into the potential of this technique. Please see our documentation for more details on our experimental setup and results.
 
+![image](https://github.com/Ravindranathkv/DeepAUCMaximization/assets/118389425/0d62d5a8-a143-491c-b015-6356b1ab6361)
+
 Some of the results:
 
 ![image](https://github.com/Ravindranathkv/DeepAUCMaximization/assets/118389425/7727e3d9-9b85-4f01-a834-843476491ff1)
